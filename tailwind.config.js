@@ -7,10 +7,10 @@ module.exports = {
         'poppins': ['Poppins', 'sans-serif'],
       },
       colors: {
-        'red': ['hsl(0, 78%, 62%)'],
-        'cyan': ['hsl(180, 62%, 55%)'],
-        'orange': ['hsl(34, 97%, 64%)'],
-        'blue': ['hsl(212, 86%, 64%)'],
+        'vermelho': ['hsl(0, 78%, 62%)'],
+        'ciano': ['hsl(180, 62%, 55%)'],
+        'laranja': ['hsl(34, 97%, 64%)'],
+        'azul': ['hsl(212, 86%, 64%)'],
         'darkblue': ['hsl(234, 12%, 34%)'],
         'grayishblue': ['hsl(229, 6%, 66%)'],
         'lightgray': ['hsl(0, 0%, 98%)']
