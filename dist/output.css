@@ -852,3 +852,9 @@ video {
     grid-template-rows: 200px 200px;
   }
 }
+
+@media (min-width: 1024px){
+  .lg\:grid-cols-3{
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
